@@ -1,0 +1,13 @@
+{
+  "name": "superagent-defaults",
+  "version": "0.1.5",
+  "authors": [
+    "Cameron Bytheway <bytheway.cameron@gmail.com>"
+  ],
+  "description": "Create some defaults for superagent requests",
+  "main": "superagent-defaults.js",
+  "keywords" : [
+    "superagent"
+  ],
+  "homepage": "https://github.com/haosu/superagent-defaults"
+}
